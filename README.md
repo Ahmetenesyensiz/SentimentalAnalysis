@@ -1,2 +1,2 @@
-# moodAnalysis
-Mood Analysis with Python
+# SentimentalAnalysis
+Sentimental Analysis with Python
